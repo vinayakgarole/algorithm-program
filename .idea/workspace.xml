@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a6b7bd-a9fd-4236-a279-41aee35e0c5a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Permutation">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Anagram" />
       <module name="algorithm-program" />
@@ -87,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.PrimeNumber" />
+      <module name="algorithm-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BinarySearchWords" />
